@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name" translatable="false">ENFOOD</string>
+
+    <string name="text1">
+
+        Nasi Kuning Tempe Tahu = Rp. 10.000
+
+        Nasi Kuning + Ayam grng = Rp. 15.000
+
+        Nasi Kuning + Telur Dadar = Rp. 12.000
+
+        Nasi Kuning Komplit = Rp. 20.000
+    </string>
+
+    <string name="text2">
+Sate Ayam (10) +Lontong= Rp.28.000
+Sate Ayam (10) + nasi = Rp. 28.000
+Sate Kambing 10 tusuk = Rp. 35.000
+Sate Kambing 10 tusuk + Lontong = Rp. 38.000
+Sate Sapi 10 tusuk = Rp. 30.000
+Sate Sapi 10 tusuk + Lontong = Rp. 33.000
+    </string>
+
+    <string name="text3">
+    Soto Ayam = Rp. 15.000
+    Soto Babat = Rp. 15.000
+    Soto Daging = Rp. 15.000
+    Soto Campur (Daging dan Babat) = Rp. 20.000
+    Soto Campur Komplit = Rp. 23.000
+    </string>
+
+    <string name="text4">
+Nasi Gudeg Krecek Telur = Rp. 20.000
+Nasi Gudeg Krecek Ayam Suwir = Rp. 24.000
+Nasi Gudeg Krecek Telur  +  Ayam Suwir = Rp. 30.000
+Nasi Gudeg Krecek Sayap = Rp. 32.000
+Nasi Gudeg Krecek Telur + Sayap = Rp. 35.000
+Nasi Gudeg Krecek Paha Bawah = Rp. 32.000
+Nasi Gudeg Krecek Telur + Paha Bawah = Rp. 35.000
+    </string>
+
+    <string name="text5">
+Nasi Ayam Goreng = Rp. 17.000
+Nasi Rendang = Rp. 25.000
+Nasi Gulai Ayam = Rp. 17.000
+Nasi Ikan Laut Goreng = Rp. 22.000
+Nasi Telur Dadar = Rp. 17.000
+Nasi Ikan Lele = Rp. 17.000
+Nasi Ikan Patin Goreng = Rp. 17.000
+Nasi Perkedel = Rp. 17.000
+Nasi Telur Balado = Rp. 17.000
+    </string>
+
+    <string name="text6">
+Terdapat destinasi wisata air yang cukup popular di Kota Pekanbaru yang bernama Riau Fantasi. Tempat wisata ini menjadi pilihan favorit banyak keluarga untuk menghabiskan waktu liburan bersama anak. Disini, terdapat banyak wahana permainan yang bisa di coba seperti wave blaster, kora-kora, komedi putar, sky tower, kereta mini, dan masih banyak lagi.
+
+Ada juga fasilitas yang disediakan di Riau Fantasi seperti mushola, wifii, gazebo, tempat makan, dan toilet. Untuk kamu yang ingin ke Riau Fantasi, hanya perlu waktu selama 45 menit dari pusat kota untuk bisa ke sana. Biaya masuknya sekitar Rp 60.000 pada hari Senin-Jumat dan Rp 70.000 untuk hari Sabtu dan Minggu.
+    </string>
+
+    <string name="text7">
+Kimchi Sawi:
+500gr = Rp. 50.000
+200gr = Rp. 27.000
+Kimchi Lobak Wortel Slice :
+500gr = Rp. 50.000
+200gr = Rp. 27.000
+Kimchi Timun:
+500gr = Rp. 50.000
+200gr = Rp. 27.000
+Kimchi Lobak:
+500gr = Rp. 50.000
+200gr = Rp. 27.000
+Kimchi Kucai:
+500gr = Rp. 50.000
+200gr = Rp. 27.000
+Kimchi Daun Bawang:
+500gr = Rp. 60.000
+200gr = Rp. 35.000
+    </string>
+
+    <string name="text8">
+    Original Tteokbokki = Rp. 50.000
+    Cheese Tteokbokki = Rp. 65.000
+    Jjajang Tteokbokki = Rp. 60.000
+    Rabokki = Rp. 60.000
+    Beombeok = Rp. 60.000
+    </string>
+
+    <string name="text9">
+Japanese Spicy Mentai = Rp. 20.000
+Creamy Crab Roll = Rp. 13.000
+Crispy Kani = Rp. 13.000
+Salmon Skin Roll = Rp. 20.000
+Spicy Tori Mayo = Rp. 20.000
+Aburi Tuna Mentai Roll = Rp. 20.000
+California Roll = Rp. 18.000
+Inari Tuna Roll = Rp. 20.000
+Paket Reguler = Rp. 85.000
+    </string>
+
+
+    <string name="text10">
+Legendary Chicken Ramen = Rp. 43.000
+Karage Ramen = Rp. 51.000
+Chicken Miso Ramen = Rp. 51.000
+Chicken Curry Ramen = Rp. 54.000
+Beef Ramen = Rp. 54.000
+Ebi Tempura Ramen = Rp. 52.000
+    </string>
+
+    <string name="text11">
+    Egg Tempura = Rp. 13.000
+    EbiTempura = Rp. 15.000
+    Tori Tempura = Rp. 12.000
+    Chicken Chili Tempura = Rp. 8.000
+    Broccoli Tempura = Rp. 10.000
+    </string>
+
+    <string name="text12">
+Dimsum Spicy Mentai = Rp. 15.000
+Dimsum Keju = Rp. 15.000
+Dimsum Ayam = Rp. 15.000
+Dimsum Udang = Rp. 15.000
+Dimsum Kepiting = Rp. 15.000
+Dimsum Gurita = Rp. 15.000
+    </string>
+    <string name="text13">
+Fu Yung Hai Ayam = Rp. 22.000
+Fu Yung Hai Jamur = Rp. 20.000
+Fu Yung Hai Sosis = Rp. 20.000
+Fu Yung Hai Telur = Rp. 20.000
+Fu Yung Hai Sayuran = Rp. 20.000
+Fu Yung Hai Udang = Rp. 22.000
+    </string>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Wisata">
+        <activity android:name=".FuYungHai" />
+        <activity android:name=".Dimsum" />
+        <activity android:name=".Tempura" />
+        <activity android:name=".Ramen" />
+        <activity android:name=".Sushi" />
+        <activity android:name=".KulinerJepang" />
+        <activity android:name=".KulinerChinese" />
+        <activity android:name=".Tteokbokki" />
+        <activity android:name=".Kimchi" />
+        <activity android:name=".KulinerKorea" />
+        <activity android:name=".NasiPadang" />
+        <activity android:name=".Gudeg" />
+        <activity android:name=".Sate" />
+        <activity android:name=".NasiKuning" />
+        <activity android:name=".KulinerIndonesia" />
+        <activity android:name=".Soto" />
+        <activity android:name=".MenuUtama" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
